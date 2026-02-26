@@ -74,4 +74,3 @@ GitHub: https://github.com/amitgond1
 
 ---
 
-⭐ If you like this project, give it a star on GitHub!
